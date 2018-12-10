@@ -1,0 +1,8 @@
+project_token: d4296f68fe96c1b8ade54745
+name: threat
+jobs: 
+  - job_id: b1d43d9e-e945-4508-aa3a-f8f35340b64b
+    language: python
+    name: "ddos-ingest"
+    schedule: "* */1 * * *"
+    entrypoint: "ddos-ingest.py"

@@ -1,0 +1,241 @@
+name,latitude,longitude,cca2
+Unknown,90.0,0.0,UU
+Afghanistan,33.0,65.0,AF
+Albania,41.0,20.0,AL
+Algeria,28.0,3.0,DZ
+American Samoa,-14.333333333333334,-170.0,AS
+Andorra,42.5,1.5,AD
+Angola,-12.5,18.5,AO
+Anguilla,18.25,-63.166666666666664,AI
+Antarctica,-90.0,0.0,AQ
+Antigua and Barbuda,17.05,-61.8,AG
+Argentina,-34.0,-64.0,AR
+Armenia,40.0,45.0,AM
+Aruba,12.5,-69.96666666666667,AW
+Australia,-27.0,133.0,AU
+Austria,47.333333333333336,13.333333333333334,AT
+Azerbaijan,40.5,47.5,AZ
+"Bahamas, The",24.25,-76.0,BS
+Bahrain,26.0,50.55,BH
+Bangladesh,24.0,90.0,BD
+Barbados,13.166666666666666,-59.53333333333333,BB
+Belarus,53.0,28.0,BY
+Belgium,50.833333333333336,4.0,BE
+Belize,17.25,-88.75,BZ
+Benin,9.5,2.25,BJ
+Bermuda,32.333333333333336,-64.75,BM
+Bhutan,27.5,90.5,BT
+Bolivia,-17.0,-65.0,BO
+Bosnia and Herzegovina,44.0,18.0,BA
+Botswana,-22.0,24.0,BW
+Bouvet Island,-54.43333333333333,3.4,BV
+Brazil,-10.0,-55.0,BR
+British Indian Ocean Territory,-6.0,71.5,IO
+British Virgin Islands,18.5,-64.5,VG
+Brunei,4.5,114.66666666666667,BN
+Bulgaria,43.0,25.0,BG
+Burkina Faso,13.0,-2.0,BF
+Burma,22.0,98.0,MM
+Burundi,-3.5,30.0,BI
+Cambodia,13.0,105.0,KH
+Cameroon,6.0,12.0,CM
+Canada,60.0,-95.0,CA
+Cayman Islands,19.5,-80.5,KY
+Central African Republic,7.0,21.0,CF
+Chad,15.0,19.0,TD
+Chile,-30.0,-71.0,CL
+China,35.0,105.0,CN
+Christmas Island,-10.5,105.66666666666667,CX
+Cocos (Keeling) Islands,-12.5,96.83333333333333,CC
+Colombia,4.0,-72.0,CO
+Comoros,-12.166666666666666,44.25,KM
+"Congo, Democratic Republic of the",0.0,25.0,CD
+"Congo, Republic of the",-1.0,15.0,CG
+Cook Islands,-21.233333333333334,-159.76666666666668,CK
+Costa Rica,10.0,-84.0,CR
+Cote d'Ivoire,8.0,-5.0,CI
+Croatia,45.166666666666664,15.5,HR
+Cuba,21.5,-80.0,CU
+Curacao,12.166666666666666,-69.0,CW
+Cyprus,35.0,33.0,CY
+Czechia,49.75,15.5,CZ
+Denmark,56.0,10.0,DK
+Djibouti,11.5,43.0,DJ
+Dominica,15.416666666666666,-61.333333333333336,DM
+Dominican Republic,19.0,-70.66666666666667,DO
+Ecuador,-2.0,-77.5,EC
+Egypt,27.0,30.0,EG
+El Salvador,13.833333333333334,-88.91666666666667,SV
+Equatorial Guinea,2.0,10.0,GQ
+Eritrea,15.0,39.0,ER
+Estonia,59.0,26.0,EE
+Eswatini,-26.5,31.5,SZ
+Ethiopia,8.0,38.0,ET
+Falkland Islands (Islas Malvinas),-51.75,-59.0,FK
+Faroe Islands,62.0,-7.0,FO
+Fiji,-18.0,175.0,FJ
+Finland,64.0,26.0,FI
+France,46.0,2.0,FR
+French Polynesia,-15.0,-140.0,PF
+French Southern and Antarctic Lands,-37.833333333333336,77.53333333333333,TF
+Gabon,-1.0,11.75,GA
+"Gambia, The",13.466666666666667,-16.566666666666666,GM
+Georgia,42.0,43.5,GE
+Germany,51.0,9.0,DE
+Ghana,8.0,-2.0,GH
+Gibraltar,36.13333333333333,-5.35,GI
+Greece,39.0,22.0,GR
+Greenland,72.0,-40.0,GL
+Grenada,12.116666666666667,-61.666666666666664,GD
+Guam,13.466666666666667,144.78333333333333,GU
+Guatemala,15.5,-90.25,GT
+Guernsey,49.46666666666667,-2.5833333333333335,GG
+Guinea,11.0,-10.0,GN
+Guinea-Bissau,12.0,-15.0,GW
+Guyana,5.0,-59.0,GY
+Haiti,19.0,-72.41666666666667,HT
+Heard Island and McDonald Islands,-53.1,72.51666666666667,HM
+Holy See (Vatican City),41.9,12.45,VA
+Honduras,15.0,-86.5,HN
+Hong Kong,22.25,114.16666666666667,HK
+Hungary,47.0,20.0,HU
+Iceland,65.0,-18.0,IS
+India,20.0,77.0,IN
+Indonesia,-5.0,120.0,ID
+Iran,32.0,53.0,IR
+Iraq,33.0,44.0,IQ
+Ireland,53.0,-8.0,IE
+Isle of Man,54.25,-4.5,IM
+Israel,31.5,34.75,IL
+Italy,42.833333333333336,12.833333333333334,IT
+Jamaica,18.25,-77.5,JM
+Japan,36.0,138.0,JP
+Jersey,49.25,-2.1666666666666665,JE
+Jordan,31.0,36.0,JO
+Kazakhstan,48.0,68.0,KZ
+Kenya,1.0,38.0,KE
+Kiribati,1.4166666666666667,173.0,KI
+"Korea, North",40.0,127.0,KP
+"Korea, South",37.0,127.5,KR
+Kosovo,42.583333333333336,21.0,XK
+Kuwait,29.5,45.75,KW
+Kyrgyzstan,41.0,75.0,KG
+Laos,18.0,105.0,LA
+Latvia,57.0,25.0,LV
+Lebanon,33.833333333333336,35.833333333333336,LB
+Lesotho,-29.5,28.5,LS
+Liberia,6.5,-9.5,LR
+Libya,25.0,17.0,LY
+Liechtenstein,47.266666666666666,9.533333333333333,LI
+Lithuania,56.0,24.0,LT
+Luxembourg,49.75,6.166666666666667,LU
+Macau,22.166666666666668,113.55,MO
+Macedonia,41.833333333333336,22.0,MK
+Madagascar,-20.0,47.0,MG
+Malawi,-13.5,34.0,MW
+Malaysia,2.5,112.5,MY
+Maldives,3.25,73.0,MV
+Mali,17.0,-4.0,ML
+Malta,35.833333333333336,14.583333333333334,MT
+Marshall Islands,9.0,168.0,MH
+Mauritania,20.0,-12.0,MR
+Mauritius,-20.283333333333335,57.55,MU
+Mexico,23.0,-102.0,MX
+"Micronesia, Federated States of",6.916666666666667,158.25,FM
+Moldova,47.0,29.0,MD
+Monaco,43.733333333333334,7.4,MC
+Mongolia,46.0,105.0,MN
+Montenegro,42.5,19.3,ME
+Montserrat,16.75,-62.2,MS
+Morocco,32.0,-5.0,MA
+Mozambique,-18.25,35.0,MZ
+Namibia,-22.0,17.0,NA
+Nauru,-0.5333333333333333,166.91666666666666,NR
+Nepal,28.0,84.0,NP
+Netherlands,52.5,5.75,NL
+New Caledonia,-21.5,165.5,NC
+New Zealand,-41.0,174.0,NZ
+Nicaragua,13.0,-85.0,NI
+Niger,16.0,8.0,NE
+Nigeria,10.0,8.0,NG
+Niue,-19.033333333333335,-169.86666666666667,NU
+Norfolk Island,-29.033333333333335,167.95,NF
+Northern Mariana Islands,15.2,145.75,MP
+Norway,62.0,10.0,NO
+Oman,21.0,57.0,OM
+Pakistan,30.0,70.0,PK
+Palau,7.5,134.5,PW
+Panama,9.0,-80.0,PA
+Papua New Guinea,-6.0,147.0,PG
+Paraguay,-23.0,-58.0,PY
+Peru,-10.0,-76.0,PE
+Philippines,13.0,122.0,PH
+Pitcairn Islands,-25.066666666666666,-130.1,PN
+Poland,52.0,20.0,PL
+Portugal,39.5,-8.0,PT
+Puerto Rico,18.25,-66.5,PR
+Qatar,25.5,51.25,QA
+Romania,46.0,25.0,RO
+Russia,60.0,100.0,RU
+Rwanda,-2.0,30.0,RW
+Saint Barthelemy,18.5,-63.416666666666664,BL
+"Saint Helena, Ascension, and Tristan da Cunha",-15.95,-5.7,SH
+Saint Kitts and Nevis,17.333333333333332,-62.75,KN
+Saint Lucia,13.883333333333333,-60.96666666666667,LC
+Saint Martin,18.083333333333332,-63.95,MF
+Saint Pierre and Miquelon,46.833333333333336,-56.333333333333336,PM
+Saint Vincent and the Grenadines,13.25,-61.2,VC
+Samoa,-13.583333333333334,-172.33333333333334,WS
+San Marino,43.766666666666666,12.416666666666666,SM
+Sao Tome and Principe,1.0,7.0,ST
+Saudi Arabia,25.0,45.0,SA
+Senegal,14.0,-14.0,SN
+Serbia,44.0,21.0,RS
+Seychelles,-4.583333333333333,55.666666666666664,SC
+Sierra Leone,8.5,-11.5,SL
+Singapore,1.3666666666666667,103.8,SG
+Sint Maarten,18.066666666666666,-63.06666666666667,SX
+Slovakia,48.666666666666664,19.5,SK
+Slovenia,46.11666666666667,14.816666666666666,SI
+Solomon Islands,-8.0,159.0,SB
+Somalia,10.0,49.0,SO
+South Africa,-29.0,24.0,ZA
+South Georgia and South Sandwich Islands,-54.5,-37.0,GS
+South Sudan,8.0,30.0,SS
+Spain,40.0,-4.0,ES
+Sri Lanka,7.0,81.0,LK
+Sudan,15.0,30.0,SD
+Suriname,4.0,-56.0,SR
+Svalbard & Jan Mayen,78.0,20.0,SJ
+Sweden,62.0,15.0,SE
+Switzerland,47.0,8.0,CH
+Syria,35.0,38.0,SY
+Taiwan,23.5,121.0,TW
+Tajikistan,39.0,71.0,TJ
+Tanzania,-6.0,35.0,TZ
+Thailand,15.0,100.0,TH
+Timor-Leste,-8.833333333333334,125.91666666666667,TL
+Togo,8.0,1.1666666666666667,TG
+Tokelau,-9.0,-172.0,TK
+Tonga,-20.0,-175.0,TO
+Trinidad and Tobago,11.0,-61.0,TT
+Tunisia,34.0,9.0,TN
+Turkey,39.0,35.0,TR
+Turkmenistan,40.0,60.0,TM
+Turks and Caicos Islands,21.75,-71.58333333333333,TC
+Tuvalu,-8.0,178.0,TV
+Uganda,1.0,32.0,UG
+Ukraine,49.0,32.0,UA
+United Arab Emirates,24.0,54.0,AE
+United Kingdom,54.0,-2.0,GB
+United States,38.0,-97.0,US
+Uruguay,-33.0,-56.0,UY
+Uzbekistan,41.0,64.0,UZ
+Vanuatu,-16.0,167.0,VU
+Venezuela,8.0,-66.0,VE
+Vietnam,16.166666666666668,107.83333333333333,VN
+Wallis and Futuna,-13.3,-176.2,WF
+Western Sahara,24.5,-13.0,EH
+Yemen,15.0,48.0,YE
+Zambia,-15.0,30.0,ZM
+Zimbabwe,-20.0,30.0,ZW
